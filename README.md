@@ -1,2 +1,2 @@
 # recipes
-Share Subway Recipes
+This is a Android Application to share Subway Recipes.
